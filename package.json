@@ -1,19 +1,19 @@
 {
   "name": "@victorprouff/n8n-npm-envrac",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "index.js",
   "scripts": {
     "test": "exit 0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/victorprouff/n8n-envrac.git"
+    "url": "git+https://github.com/victorprouff/n8n-npm-envrac.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/victorprouff/n8n-envrac/issues"
+    "url": "https://github.com/victorprouff/n8n-npm-envrac/issues"
   },
-  "homepage": "https://github.com/victorprouff/n8n-envrac#readme",
+  "homepage": "https://github.com/victorprouff/n8n-npm-envrac#readme",
   "description": ""
 }
